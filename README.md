@@ -1,4 +1,4 @@
-# music
+# Sample
 
 A new Flutter project.
 
